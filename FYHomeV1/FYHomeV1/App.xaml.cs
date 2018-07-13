@@ -31,6 +31,7 @@ namespace FYHomeV1
         {
             containerRegistry.RegisterForNavigation<NavigationPage>();
             containerRegistry.RegisterForNavigation<MainPage>();
+            containerRegistry.RegisterForNavigation<RegisterPage>();
         }
     }
 }
